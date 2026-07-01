@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("CDC.PharmaSystem.Wep")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d69054d158f26e1d3bbf39da926c15a8249b5636")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eaab890ad74cb36c4a19233f816bdaf197223c62")]
 [assembly: System.Reflection.AssemblyProductAttribute("CDC.PharmaSystem.Wep")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CDC.PharmaSystem.Wep")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
