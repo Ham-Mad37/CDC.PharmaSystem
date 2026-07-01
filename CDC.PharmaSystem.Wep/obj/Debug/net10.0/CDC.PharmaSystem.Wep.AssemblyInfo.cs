@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CDC.PharmaSystem.Wep")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f7c747da65f5e103c86edf5e7a1d79266a030f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CDC.PharmaSystem.Wep")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CDC.PharmaSystem.Wep")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
